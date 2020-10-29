@@ -3,7 +3,7 @@ import cv2
 import imutils
 import numpy as np
 
-emotion_detector = EmotionDetector()
+emotion_detector = EmotionDetector() 
 face_detection = cv2.CascadeClassifier('haarcascade_files/haarcascade_frontalface_default.xml')
 EMOTIONS = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
