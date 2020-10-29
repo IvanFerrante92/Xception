@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 def accuracy(y_true, y_pred):
     assert(len(y_true) == len(y_pred))
