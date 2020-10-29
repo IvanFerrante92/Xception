@@ -1,6 +1,6 @@
 # Xception Facial Expressoin Recognition
 
-This repository contains an implementation of Xception Facial Expression Recognition.
+This repository contains an implementation of Xception Facial Expression Recognition. 
 The model assign a sentiment score to each face based on facial expression, the highest score will determine the emotion associated with the face:
 
 - angry
